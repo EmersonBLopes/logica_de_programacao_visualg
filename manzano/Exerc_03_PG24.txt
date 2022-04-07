@@ -1,0 +1,32 @@
+3) Classifique os conteúdos das variáveis a seguir de acordo com seu tipo, assinalando com I para 
+MANZANO, José Augusto N. G., Estudo Dirigido: ALGORITMOS - Editora Érica, 2000.
+- 25 - 
+inteiros, R para reais, L para lógicos e C para literais: 
+a. (I) 0 b. (L) Verdadeiro c. (C) "Falso" 
+d. (R) 5.7 e. (R) 45.8976 f. (I) - 678 
+g. (C) "cinco" h. (C) "443" i. (L) Falso 
+j. (C) "0" k. (C) "Casa 8" l. (I) 34
+
+4) Assinale com um X os nomes de variáveis válidos: 
+a. (X) abc b. ( ) Verdadeiro c. (X) 21brasil 
+d. ( ) guarda-chuva e. ( ) etc. f. (X) zero 
+g. (X) guarda_chuva h. ( ) leia i. ( ) nome*usuario 
+j. ( ) #fone k. ( ) Casa 8 l. (X) endereco 
+m. ( ) "cinco" n. ( ) falso o. (X) _falso
+5) No seguinte programa em Portugol existe algum erro? Onde? 
+algoritmo "Teste" 
+var
+ Maria : caracter
+ idade : inteiro
+ letras : caracter
+ Maria : real
+inicio
+ idade ← 23 
+ idade ← 678 
+ idade ← letra 
+ letras ← "ABC" 
+ letras 
+ 
+ 1 . Duas variáveis Maria
+ 2 . idade recebe letra
+ 3 . letras recebe 2
