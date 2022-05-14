@@ -1,21 +1,22 @@
 Algoritmo "semnome"
-// Disciplina   :LÃ³gica de ProgramaÃ§Ã£o e Javascript
+// Disciplina   :Lógica de Programação e Javascript
 // Professor   :Obama
-// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Descrição   : Aqui você descreve o que o programa faz! (função)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 26/04/2022
 Var
-   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
+   // Seção de Declarações das variáveis
    litros, valor: real
    tipo_combustivel: caractere
 
 Inicio
-   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
+   // Seção de Comandos, procedimento, funções, operadores, etc...
    escreval("Digite a quantidade de litros vendidos")
    leia(litros)
-   escreval("Digite o tipo do combustÃ­vel")
+   escreval("Digite o tipo do combustível")
    leia(tipo_combustivel)
    se tipo_combustivel = "A" entao
+      //valor <- litros * 2.90
       se litros <= 20 entao
          valor <- litros * (2.90 - 2.90 * 0.03)
       senao
@@ -23,6 +24,7 @@ Inicio
       fimse
    senao
       se tipo_combustivel = "G" entao
+         valor <- litros * 3.30
          se litros <= 20 entao
             valor <-litros * (2.90 - 2.90 * 0.04)
          senao
@@ -30,5 +32,5 @@ Inicio
          fimse
       fimse
    fimse
-   escreval("O valor a ser cobrado Ã©:",valor)
+   escreval("O valor a ser cobrado é:",valor)
 Fimalgoritmo
