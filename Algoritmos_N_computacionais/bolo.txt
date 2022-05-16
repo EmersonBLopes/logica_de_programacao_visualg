@@ -1,0 +1,16 @@
+algortimo "fazer_bolo"
+
+início
+	passo 1 - lave as mãos;
+	passo 2 - pegue uma forma;
+	passo 3 - unte a forma com manteiga e farinha de trigo;
+	passo 4 - confira todos os ingredientes;
+//preparo do bolo
+	passo 6 - bata as claras em neve e reserve;
+	passo 7 - misture as gemas, a margarina e o açúcar até obter uma massa homogênea;
+	passo 8 - Despeje a massa dentro da forma;
+	passo 9 - Asse em forno médio 180 °C, preaquecido, por aproximadamente 40 minutos ou ao furar o bolo com um garfo, este saia limpo;
+	passo 10 - retire o bolo da forma;
+	passo 11 - corte o bolo;
+	passo 12 - sirva-o;
+fim_algoritmo	

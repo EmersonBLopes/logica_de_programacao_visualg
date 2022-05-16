@@ -1,0 +1,34 @@
+Algoritmo "tomar banho"
+
+Início
+//pré-banho
+	passo 1 - pegar a toalha;
+	passo 2 - pegar roupas novas;
+	passo 3 - se dirigir ao banheiro;
+	passo 4 - abrir a porta do banheiro;
+	passo 5 - entrar no banheiro;
+	passo 6 - fechar a porta do banheiro;
+	passo 7 - colocar roupas e tolhas em um lugar seco;
+	passo 8 - tirar a roupa;
+	passo 9 - abrir o chuveiro;
+	passo 10 - regular a quantidade de água do chuveiro;
+	passo 11 - entrar no chuveiro;
+//banho
+	passo 12 - se(cabelo==verdadeiro){
+					passar shampoo;
+					enxaguar a cabeça;
+				}
+	passo 13 - pegar o sabonete
+	passo 14 - se ensaboar;
+	passo 16 - enxaguar o corpo;
+	passo 17 - fechar o chuveiro;
+//pós-banho
+	passo 18 - pegar a toalha;
+	passo 19 - se secar;
+	passo 20 - guardar a toalha;
+	passo 21 - vestir as roupas novas;
+	passo 22 - puxar água do banheiro;
+	passo 23 - abir a porta do banheiro;
+	passo 24 - sair do banheiro;
+fim_algoritmo
+	

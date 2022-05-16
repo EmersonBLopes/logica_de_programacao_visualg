@@ -1,0 +1,22 @@
+algoritmo "escovar_dentes"
+
+início
+
+	passo 1 - vá  ao banheiro;
+	passo 2 - abra o armário do banheiro;
+	passo 3 - pegue a escova de dente;
+	passo 4 - pegue a pasta de dente;
+	passo 5 - derosqueie a paste de dente;
+	passo 6 - passe um pouco de pasta de dente em cima da escova;
+	passo 7 - abra a torneira;
+	passo 8 - molhe um pouco a escova;
+	passo 9 - feche a torneira;
+	passo 10 - coloque a escova dentro da boca;
+	passo 11 - esfregue a escova contra os dentes suavemente com movimentos circulares;
+	passo 12 - esfregue a escova na lingua suavemente;
+	passo 13 - abra a torneira;
+	passo 14 - coloque água na boca e enxague;
+	passo 15 - cuspa a água;
+	passo 16 - feche a torneira;
+	
+fim_algoritmo

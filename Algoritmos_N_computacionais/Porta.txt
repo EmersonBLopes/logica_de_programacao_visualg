@@ -1,0 +1,11 @@
+algoritmo "abrir-porta"
+
+início 
+	passo 1 - vá até a porta;
+	passo 2 - se(porta==trancada){
+				passo 1 - pegue a chave;
+				passo 2 - destranque a porta;
+			  }
+	passo 3 -  gire a maçaneta da porta;
+	passo 4 - empurre a porta;
+fim_algoritmo

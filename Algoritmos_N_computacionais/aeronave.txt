@@ -1,0 +1,9 @@
+algoritmo "aeronave"
+
+inicio
+	passo 1 - entre na aeronave;
+	passo 2 - dirija-se até a cabine do piloto;
+	passo 3 - entre na cabine;
+	passo 4 - sente-se no acento do piloto;
+	passo 5 - gire a a chave; 
+fim_algoritmo

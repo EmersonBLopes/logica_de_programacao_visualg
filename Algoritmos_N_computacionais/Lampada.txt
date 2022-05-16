@@ -1,0 +1,13 @@
+algoritmo "trocar_lampada"
+
+inicio
+	passo 1 - compre um lampada nova;
+	passo 2 - pegue uma escada;
+	passo 3 - dirija-se a lampada com defeito;
+	passo 4 - abra a escada abaixo da lampada com defeito;
+	passo 5 - suba a escada;
+	passo 6 - desrosqueie a lampada girando-a em sentido anti-horário;
+	passo 7 - pegue a lampada nova;
+	passo 8 - rosqueie a lampada nova girando-a em sentido horário;
+	passo 9 - ligue a luz;
+fim_algoritmo
